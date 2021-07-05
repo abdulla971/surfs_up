@@ -23,3 +23,5 @@ Some takeaways based on the weather patterns observed from the two tables above 
 
 ## Summary
 To sum up, in the past data we know that the weather patterns between June and December are extremely similar, with December having a wider range of results. The high temperatures of December and June are close, unlike the low temperature where we observe a Lower temperature in December.
+
+We could run additional queries to investigate the precipitation difference between the months of June and December to check if either has a more rain drops, also a comparison between the weather stations, since at different locations in these months we might observe slightly different weather patterns that might alter our decision. For all purposes we better focus on the weather station closest to our desired shop location to obtain the most accurate results.
