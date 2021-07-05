@@ -20,3 +20,6 @@ Some takeaways based on the weather patterns observed from the two tables above 
 1) The average temperature is 75 and 71 for the months of June and December respectively, this shows that the temperature for the two months is close and moderate and this also indicate that there is little fluctuation.
 2) Regarding the maximum temperatures for the two months we see that for June it’s 85 and for December it’s 83 which also shows similarity and closeness in the weather patterns.
 3) Regarding the minimum temperatures for June it’s 64 and for December it’s 56, this indicates high variance and for December this indicates that opening the surfing and ice cream shop might not be the best ideas as the temperature is considered low. Nonetheless, given the standard deviations for June and December which are 3.25 and 3.74 respectively, we would expect slight change between the two months numbers.
+
+## Summary
+To sum up, in the past data we know that the weather patterns between June and December are extremely similar, with December having a wider range of results. The high temperatures of December and June are close, unlike the low temperature where we observe a Lower temperature in December.
