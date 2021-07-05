@@ -9,4 +9,10 @@ In this project we reviewed weather patterns and trends in Hawaii in order to ch
 ## Results
 
 This table summarizes June's temperature statistics over time.
+
 ![June Temperate Statistics](Resources/June_Temps_Stats.png)
+
+This table summarizes December’s temperature statistics over time.
+
+![December Temperature Statistics](Resources/December_Temps_Stats.png)
+
