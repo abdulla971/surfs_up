@@ -5,3 +5,8 @@ In this project we reviewed weather patterns and trends in Hawaii in order to ch
 - Accessed meteorological data in an SQLite file;
 - Wrote queries to examine temperature data collected in the months of June and December;
 - Calculated summary statistics (such as the min, max, and average temperatures collected).
+
+## Results
+
+This table summarizes June's temperature statistics over time.
+![June Temperate Statistics](Resources/June_Temps_Stats.png)
